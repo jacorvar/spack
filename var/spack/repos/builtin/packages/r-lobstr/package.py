@@ -16,7 +16,7 @@ class RLobstr(RPackage):
     url      = "https://cloud.r-project.org/src/contrib/lobstr_1.1.1.tar.gz"
     list_url = "https://cloud.r-project.org/src/contrib/Archive/lobstr"
 
-    version('1.1.1', sha256='923a384d9239d44b63dfc57f5a0309a1e59b9698ef05183f598f6f4fffb1e0fd')
+    version('1.1.1', sha256='b8c9ce00095bd4f304b4883ef71da24572022f0632a18c3e1ba317814e70716e')
     version('1.0.1', sha256='f94d0a207f1b44097907d761c45130be386e908aec4ac472bf2fec6d36c74a69')
     version('1.0.0', sha256='b9d5dcda36a1c1bd208ddf814f9b5a9c2c8b07730647b98505be7e296b14c883')
 
